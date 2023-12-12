@@ -1,2 +1,7 @@
-package org.example;public class Girl {
+package org.example;
+
+public class Girl {
+    public void chat(){
+        System.out.println("Chatting....");
+    }
 }
