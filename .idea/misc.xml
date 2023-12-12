@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/Dependancy-Injection-Introduction/pom.xml" />
         <option value="$PROJECT_DIR$/Property-Injection/pom.xml" />
         <option value="$PROJECT_DIR$/construtor-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/Setter-Method-Injection/pom.xml" />
       </list>
     </option>
   </component>
