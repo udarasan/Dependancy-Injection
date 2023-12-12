@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Property-Injection" />
         <module name="Dependancy-Injection-Introduction" />
+        <module name="construtor-injection" />
         <module name="Loose-Coupling" />
         <module name="Tight-Coupling" />
       </profile>
